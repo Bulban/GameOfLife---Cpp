@@ -1,3 +1,9 @@
+# Directories
+/build/
+/vcpkg_installed/
+
+
+
 # Prerequisites
 *.d
 
